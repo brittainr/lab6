@@ -1,0 +1,9 @@
+C:\Users\princ\source\repos\CiustomerProductDB\CustomerProductPropsClasses\bin\Debug\CustomerProductPropsClasses.dll
+C:\Users\princ\source\repos\CiustomerProductDB\CustomerProductPropsClasses\bin\Debug\CustomerProductPropsClasses.pdb
+C:\Users\princ\source\repos\CiustomerProductDB\CustomerProductPropsClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\princ\source\repos\CiustomerProductDB\CustomerProductPropsClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\princ\source\repos\CiustomerProductDB\CustomerProductPropsClasses\obj\Debug\CustomerProductPropsClasses.csprojAssemblyReference.cache
+C:\Users\princ\source\repos\CiustomerProductDB\CustomerProductPropsClasses\obj\Debug\CustomerProductPropsClasses.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\CiustomerProductDB\CustomerProductPropsClasses\obj\Debug\CustomerProductPropsClasses.csproj.CopyComplete
+C:\Users\princ\source\repos\CiustomerProductDB\CustomerProductPropsClasses\obj\Debug\CustomerProductPropsClasses.dll
+C:\Users\princ\source\repos\CiustomerProductDB\CustomerProductPropsClasses\obj\Debug\CustomerProductPropsClasses.pdb
